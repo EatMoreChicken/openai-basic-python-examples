@@ -16,9 +16,9 @@ After setting the environment variable, you can run the Python script in the sam
 
 ## Scripts
 
-| Script Name | Description |
-| --- | --- |
-| [requests-openai-api.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/requests-openai-api.py) | A basic example of using the OpenAI API with the `requests` library. |
-| [openai-library-generic.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-generic.py) | A generic example of using the OpenAI library. |
-| [openai-library-structured-output-pydantic.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-pydantic.py) | An example of using the OpenAI library with structured output using Pydantic. (I think this is the easiest way to use structured output.) |
-| [openai-library-structured-output-json.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-json.py) | An example of using the OpenAI library with structured output using JSON. |
+|| Script Name | Description |
+|-| --- | --- |
+|| [requests-openai-api.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/requests-openai-api.py) | A basic example of using the OpenAI API with the `requests` library. |
+|| [openai-library-generic.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-generic.py) | A generic example of using the OpenAI library. |
+|✨| [openai-library-structured-output-pydantic.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-pydantic.py) | An example of using the OpenAI library with structured output using Pydantic. (I think this is the easiest |way to use structured output.) |
+|| [openai-library-structured-output-json.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-json.py) | An example of using the OpenAI library with structured output using JSON. |
