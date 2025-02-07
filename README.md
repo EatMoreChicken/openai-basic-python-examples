@@ -25,7 +25,7 @@ After setting the environment variable, you can run the Python script in the sam
 |✨| [openai-library-structured-output-pydantic.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-pydantic.py) | An example of using the OpenAI library with structured output using Pydantic. (I think this is the easiest way to use structured output.) |
 || [openai-library-structured-output-json.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-json.py) | An example of using the OpenAI library with structured output using JSON. |
 || [openai-library-streaming.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-streaming.py) | An example of using the OpenAI library with streaming. 🔰 Work in Progress|
-|| [openai-library-tool-use.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-tool-use.py) | An example of using the OpenAI library with tool use. 🔰 Work in Progress|
+|| [openai-library-tool-use.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-tool-use.py) | An example of using the OpenAI library with tool use. 🔰 Work in Progress, the current version isn't very good |
 
 ## Contributing
 
