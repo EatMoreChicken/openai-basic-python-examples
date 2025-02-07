@@ -1,6 +1,8 @@
-# Basic OpenAI Python Example
+# Basic OpenAI Python Examples
 
-This is an example setup for using the OpenAI API with Python and the `requests` library. Using the `openai` Python package is recommended, but this example is for those who prefer to use `requests` directly.
+This repository provides example setups for using the OpenAI API with Python. While it is recommended to use the `openai` Python package, these examples include using the `requests` library directly for those who prefer it.
+
+Below are various scripts demonstrating different ways to interact with the OpenAI API.
 
 ## Setting the Environment Variable
 
@@ -24,3 +26,7 @@ After setting the environment variable, you can run the Python script in the sam
 || [openai-library-structured-output-json.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-structured-output-json.py) | An example of using the OpenAI library with structured output using JSON. |
 || [openai-library-streaming.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-streaming.py) | An example of using the OpenAI library with streaming. 🔰 Work in Progress|
 || [openai-library-tool-use.py](https://github.com/EatMoreChicken/openai-basic-python-example/blob/main/openai-library-tool-use.py) | An example of using the OpenAI library with tool use. 🔰 Work in Progress|
+
+## Contributing
+
+Obviously the OpenAI documentation is vast and is likely the best way to learn how to use the API. However, I hope these examples can help you get started quickly. If you have any suggestions, improvements, or new examples, feel free to contribute or open an issue. 🙂
